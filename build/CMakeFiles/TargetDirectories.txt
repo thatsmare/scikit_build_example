@@ -1,2 +1,3 @@
+C:/Users/marty/Documents/GitHub/projekt3tp/build/CMakeFiles/cmake-good.dir
 C:/Users/marty/Documents/GitHub/projekt3tp/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/marty/Documents/GitHub/projekt3tp/build/CMakeFiles/ZERO_CHECK.dir
