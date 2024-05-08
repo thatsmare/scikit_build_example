@@ -1,3 +1,11 @@
 C:/Users/marty/Documents/GitHub/projekt3tp/build/CMakeFiles/project-base.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/CMakeFiles/INSTALL.dir
 C:/Users/marty/Documents/GitHub/projekt3tp/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/marty/Documents/GitHub/projekt3tp/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/matplotplusplus/CMakeFiles/INSTALL.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/matplotplusplus/CMakeFiles/ALL_BUILD.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/matplotplusplus/source/CMakeFiles/INSTALL.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/matplotplusplus/source/3rd_party/CMakeFiles/nodesoup.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/matplotplusplus/source/3rd_party/CMakeFiles/INSTALL.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/matplotplusplus/source/matplot/CMakeFiles/matplot.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/matplotplusplus/source/matplot/CMakeFiles/INSTALL.dir

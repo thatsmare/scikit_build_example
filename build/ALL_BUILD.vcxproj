@@ -173,6 +173,14 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\matplotplusplus\source\matplot\matplot.vcxproj">
+      <Project>{F791D8B1-5867-3A0C-948F-D4A6467E04B6}</Project>
+      <Name>matplot</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\matplotplusplus\source\3rd_party\nodesoup.vcxproj">
+      <Project>{11D7D99E-32A7-35FD-9980-BE95B5844982}</Project>
+      <Name>nodesoup</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\project-base.vcxproj">
       <Project>{EE41CDE1-A370-31D2-949D-1A058BC717A1}</Project>
       <Name>project-base</Name>

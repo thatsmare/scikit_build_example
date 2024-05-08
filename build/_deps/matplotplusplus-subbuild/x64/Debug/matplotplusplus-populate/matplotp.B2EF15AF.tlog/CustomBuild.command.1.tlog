@@ -1,0 +1,150 @@
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-MKDIR.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -Dcfgdir=/Debug -P C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/tmp/matplotplusplus-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-DOWNLOAD.RULE
+setlocal
+cd C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -P C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/tmp/matplotplusplus-populate-gitclone.cmake
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-UPDATE.RULE
+setlocal
+cd C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-src
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -Dcan_fetch=YES -P C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/tmp/matplotplusplus-populate-gitupdate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-PATCH.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-CONFIGURE.RULE
+setlocal
+cd C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-BUILD.RULE
+setlocal
+cd C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-INSTALL.RULE
+setlocal
+cd C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\AA31C2AFF7E47E7410C2D4EF453AF9A6\MATPLOTPLUSPLUS-POPULATE-TEST.RULE
+setlocal
+cd C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\100C88BC183700D54FA44E6F3D5D010F\MATPLOTPLUSPLUS-POPULATE-COMPLETE.RULE
+setlocal
+C:\mingw64\bin\cmake.exe -E make_directory C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/Debug/matplotplusplus-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+C:\mingw64\bin\cmake.exe -E touch C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/matplotplusplus-populate-prefix/src/matplotplusplus-populate-stamp/Debug/matplotplusplus-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKEFILES\18D9BCA7EA2561AF3E2CC63D55729725\MATPLOTPLUSPLUS-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MARTY\DOCUMENTS\GITHUB\PROJEKT3TP\BUILD\_DEPS\MATPLOTPLUSPLUS-SUBBUILD\CMAKELISTS.TXT
+setlocal
+C:\mingw64\bin\cmake.exe -SC:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild -BC:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild --check-stamp-file C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

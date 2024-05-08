@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/18d9bca7ea2561af3e2cc63d55729725/matplotplusplus-populate.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/100c88bc183700d54fa44e6f3d5d010f/matplotplusplus-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/aa31c2aff7e47e7410c2d4ef453af9a6/matplotplusplus-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"matplotplusplus-populate"
+		],
+		"name" : "matplotplusplus-populate"
+	}
+}

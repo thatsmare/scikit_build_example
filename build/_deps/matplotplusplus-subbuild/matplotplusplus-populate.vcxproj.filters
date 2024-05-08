@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\aa31c2aff7e47e7410c2d4ef453af9a6\matplotplusplus-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\100c88bc183700d54fa44e6f3d5d010f\matplotplusplus-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\18d9bca7ea2561af3e2cc63d55729725\matplotplusplus-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\marty\Documents\GitHub\projekt3tp\build\_deps\matplotplusplus-subbuild\CMakeFiles\matplotplusplus-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B03E241D-FA38-3E65-8D95-10BAD0A2FFCD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

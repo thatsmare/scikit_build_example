@@ -1,0 +1,13 @@
+# CMake generation dependency list for this directory.
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/CMakeLists.txt
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/cmake/functions.cmake
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/cmake/functions/ensure_build_type.cmake
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/cmake/functions/link_external_libraries.cmake
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/cmake/functions/project_flags.cmake
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/cmake/functions/sanitizers.cmake
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/cmake/functions/target_options.cmake
+C:/mingw64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+C:/mingw64/share/cmake-3.28/Modules/ExternalProject/shared_internal_commands.cmake
+C:/mingw64/share/cmake-3.28/Modules/FetchContent.cmake
+C:/mingw64/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+C:/mingw64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake

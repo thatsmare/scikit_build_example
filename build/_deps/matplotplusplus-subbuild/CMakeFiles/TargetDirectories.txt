@@ -1,0 +1,3 @@
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/matplotplusplus-populate.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-subbuild/CMakeFiles/ZERO_CHECK.dir

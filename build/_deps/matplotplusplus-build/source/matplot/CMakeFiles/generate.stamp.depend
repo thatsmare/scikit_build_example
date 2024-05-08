@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Users/marty/Documents/GitHub/projekt3tp/build/_deps/matplotplusplus-src/source/matplot/CMakeLists.txt
+C:/mingw64/share/cmake-3.28/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/mingw64/share/cmake-3.28/Modules/CheckCCompilerFlag.cmake
+C:/mingw64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+C:/mingw64/share/cmake-3.28/Modules/CheckCXXCompilerFlag.cmake
+C:/mingw64/share/cmake-3.28/Modules/CheckCXXSourceCompiles.cmake
+C:/mingw64/share/cmake-3.28/Modules/CheckCompilerFlag.cmake
+C:/mingw64/share/cmake-3.28/Modules/CheckSourceCompiles.cmake
+C:/mingw64/share/cmake-3.28/Modules/CheckSymbolExists.cmake
+C:/mingw64/share/cmake-3.28/Modules/GenerateExportHeader.cmake
+C:/mingw64/share/cmake-3.28/Modules/Internal/CheckCompilerFlag.cmake
+C:/mingw64/share/cmake-3.28/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/mingw64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+C:/mingw64/share/cmake-3.28/Modules/exportheader.cmake.in
